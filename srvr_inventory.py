@@ -1,10 +1,12 @@
 import csv
 import ansible_runner
+from environs import Env
 
-INVENTORY_FILE = INVENTORY_FILE
+env = Env()
+env.read_env()
+INVENTORY_FILE = env.str("INVENTORY_FILE")
 CSV_OUTPUT = 'server_inventory_report.csv'
 
-# Running ansible_runner
 result = ansible_runner.run(
     private_data_dir='.',
     inventory=INVENTORY_FILE,
@@ -25,6 +27,8 @@ for host_event in result.events:
             env = 'prd'
         elif 'stg' in name_lower:
             env = 'stg'
+        elif 'dev' in name_lower:
+            env = 'dev'
         elif 'test' in name_lower:
             env = 'test'
         rows.append({
