@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "f9637dd6-ca82-4f39-9f9d-1f52e225b624", "counter": 113, "stdout": "\u001b[1;35maction to execute (default=command)   -o, --one-line        condense output\u001b[0m", "start_line": 112, "end_line": 113, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:12.264151+00:00"}

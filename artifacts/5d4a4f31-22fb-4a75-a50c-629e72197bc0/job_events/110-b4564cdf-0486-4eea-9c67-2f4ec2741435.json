@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "b4564cdf-0486-4eea-9c67-2f4ec2741435", "counter": 110, "stdout": "\u001b[1;35mbe specified multiple times.   -k, --ask-pass        ask for connection\u001b[0m", "start_line": 109, "end_line": 110, "runner_ident": "5d4a4f31-22fb-4a75-a50c-629e72197bc0", "created": "2025-07-29T06:47:52.687293+00:00"}

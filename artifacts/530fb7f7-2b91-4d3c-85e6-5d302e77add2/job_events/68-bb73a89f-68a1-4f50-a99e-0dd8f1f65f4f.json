@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "bb73a89f-68a1-4f50-a99e-0dd8f1f65f4f", "counter": 68, "stdout": "\u001b[1;35mFORKS]                [-M MODULE_PATH] [--playbook-dir BASEDIR]\u001b[0m", "start_line": 67, "end_line": 68, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:12.205856+00:00"}

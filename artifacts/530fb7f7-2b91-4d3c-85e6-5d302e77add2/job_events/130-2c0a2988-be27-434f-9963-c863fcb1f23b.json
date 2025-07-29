@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "2c0a2988-be27-434f-9963-c863fcb1f23b", "counter": 130, "stdout": "\u001b[1;35mSFTP_EXTRA_ARGS                         specify extra arguments to pass to sftp\u001b[0m", "start_line": 129, "end_line": 130, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:12.287186+00:00"}

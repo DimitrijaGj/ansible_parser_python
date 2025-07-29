@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "270b2298-4e43-447c-a858-2ee7fe36401f", "counter": 65, "stdout": "\u001b[1;35mSSH_EXTRA_ARGS] [-k |                --connection-password-file\u001b[0m", "start_line": 64, "end_line": 65, "runner_ident": "f3d113ac-90a6-4092-a531-cdca227e4a5c", "created": "2025-07-29T06:47:13.002537+00:00"}

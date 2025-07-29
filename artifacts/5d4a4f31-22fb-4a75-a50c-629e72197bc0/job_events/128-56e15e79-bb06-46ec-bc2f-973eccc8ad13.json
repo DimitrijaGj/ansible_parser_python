@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "56e15e79-bb06-46ec-bc2f-973eccc8ad13", "counter": 128, "stdout": "\u001b[1;35mfile to authenticate the connection   --scp-extra-args SCP_EXTRA_ARGS\u001b[0m", "start_line": 127, "end_line": 128, "runner_ident": "5d4a4f31-22fb-4a75-a50c-629e72197bc0", "created": "2025-07-29T06:47:52.706587+00:00"}

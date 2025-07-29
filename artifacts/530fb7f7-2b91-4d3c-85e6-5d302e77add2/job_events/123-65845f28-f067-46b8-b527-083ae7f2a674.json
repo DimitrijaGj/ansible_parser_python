@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "65845f28-f067-46b8-b527-083ae7f2a674", "counter": 123, "stdout": "\u001b[1;35m`ansible-doc -t become -l` to list valid choices.   --become-user BECOME_USER\u001b[0m", "start_line": 122, "end_line": 123, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:12.277657+00:00"}

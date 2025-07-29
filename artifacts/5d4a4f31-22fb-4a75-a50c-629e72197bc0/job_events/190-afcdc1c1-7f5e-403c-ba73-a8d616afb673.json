@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "afcdc1c1-7f5e-403c-ba73-a8d616afb673", "counter": 190, "stdout": "\u001b[1;35m{list,dump,view,init,validate} ...  View ansible configuration.  positional\u001b[0m", "start_line": 189, "end_line": 190, "runner_ident": "5d4a4f31-22fb-4a75-a50c-629e72197bc0", "created": "2025-07-29T06:47:53.303119+00:00"}

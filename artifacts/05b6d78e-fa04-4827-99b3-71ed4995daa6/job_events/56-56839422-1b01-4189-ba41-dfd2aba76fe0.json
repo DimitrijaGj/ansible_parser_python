@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "56839422-1b01-4189-ba41-dfd2aba76fe0", "counter": 56, "stdout": "\u001b[1;35mMODULE_ARGS] [-m MODULE_NAME]                pattern ansible: error: the\u001b[0m", "start_line": 55, "end_line": 56, "runner_ident": "05b6d78e-fa04-4827-99b3-71ed4995daa6", "created": "2025-07-29T06:54:50.769061+00:00"}

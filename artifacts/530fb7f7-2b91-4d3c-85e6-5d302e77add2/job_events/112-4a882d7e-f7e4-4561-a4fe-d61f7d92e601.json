@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "4a882d7e-f7e4-4561-a4fe-d61f7d92e601", "counter": 112, "stdout": "\u001b[1;35mpattern   -m, --module-name MODULE_NAME                         Name of the\u001b[0m", "start_line": 111, "end_line": 112, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:12.263010+00:00"}

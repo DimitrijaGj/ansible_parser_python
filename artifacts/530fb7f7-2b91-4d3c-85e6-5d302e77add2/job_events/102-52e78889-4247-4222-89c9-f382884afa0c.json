@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "52e78889-4247-4222-89c9-f382884afa0c", "counter": 102, "stdout": "\u001b[1;35m\"val1\", \"opt2\": \"val2\"}'   -e, --extra-vars EXTRA_VARS\u001b[0m", "start_line": 101, "end_line": 102, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:12.250771+00:00"}

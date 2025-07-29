@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "b4b94c91-40ca-4900-90af-59c3747a125b", "counter": 17, "stdout": "\u001b[1;35mproblem.  The offending line appears to be:      # reset old environment\u001b[0m", "start_line": 16, "end_line": 17, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:11.631992+00:00"}

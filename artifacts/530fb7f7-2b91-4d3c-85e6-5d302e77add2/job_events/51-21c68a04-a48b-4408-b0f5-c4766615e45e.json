@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "21c68a04-a48b-4408-b0f5-c4766615e45e", "counter": 51, "stdout": "\u001b[1;35mSCP_EXTRA_ARGS]                [--ssh-extra-args SSH_EXTRA_ARGS] [-k |\u001b[0m", "start_line": 50, "end_line": 51, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:12.178303+00:00"}

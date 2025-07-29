@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "c52be48b-4710-48c4-94c4-6193a656fd73", "counter": 129, "stdout": "\u001b[1;35mspecify extra arguments to pass to scp only (e.g. -l)   --sftp-extra-args\u001b[0m", "start_line": 128, "end_line": 129, "runner_ident": "5d4a4f31-22fb-4a75-a50c-629e72197bc0", "created": "2025-07-29T06:47:52.707708+00:00"}

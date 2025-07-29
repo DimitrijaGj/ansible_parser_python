@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "98f2b4cb-605b-4acc-b40f-f345c31d3ebd", "counter": 124, "stdout": "\u001b[1;35mrun operations as this user (default=root)   -b, --become          run\u001b[0m", "start_line": 123, "end_line": 124, "runner_ident": "5d4a4f31-22fb-4a75-a50c-629e72197bc0", "created": "2025-07-29T06:47:52.702606+00:00"}

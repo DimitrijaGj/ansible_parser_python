@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "ec798da5-e53b-4804-9037-8b12dffdc9b0", "counter": 99, "stdout": "\u001b[1;35mset the poll interval if using -B (default=15)   -a, --args MODULE_ARGS\u001b[0m", "start_line": 98, "end_line": 99, "runner_ident": "f3d113ac-90a6-4092-a531-cdca227e4a5c", "created": "2025-07-29T06:47:13.047394+00:00"}

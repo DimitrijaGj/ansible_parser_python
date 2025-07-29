@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "7dd3dcb6-ce6a-44ca-bb31-381473130f4b", "counter": 163, "stdout": "\u001b[1;35mcommunity: error: unrecognized arguments: --list\u001b[0m", "start_line": 162, "end_line": 163, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:12.714571+00:00"}

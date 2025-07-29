@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "726a3112-d0a1-4d87-927e-ca0eed3d634d", "counter": 111, "stdout": "\u001b[1;35mpassword   -l, --limit SUBSET    further limit selected hosts to an additional\u001b[0m", "start_line": 110, "end_line": 111, "runner_ident": "05b6d78e-fa04-4827-99b3-71ed4995daa6", "created": "2025-07-29T06:54:50.829948+00:00"}

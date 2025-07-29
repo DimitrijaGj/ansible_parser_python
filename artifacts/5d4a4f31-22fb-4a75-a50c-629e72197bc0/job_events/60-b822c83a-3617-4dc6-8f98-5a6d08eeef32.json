@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "b822c83a-3617-4dc6-8f98-5a6d08eeef32", "counter": 60, "stdout": "\u001b[1;35m[-i INVENTORY]                [--list-hosts] [-l SUBSET] [-P POLL_INTERVAL] [-B\u001b[0m", "start_line": 59, "end_line": 60, "runner_ident": "5d4a4f31-22fb-4a75-a50c-629e72197bc0", "created": "2025-07-29T06:47:52.624532+00:00"}

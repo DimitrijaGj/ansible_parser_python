@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "1b43ae76-6d18-4ba5-b3e6-9017e5ba659e", "counter": 54, "stdout": "\u001b[1;35mfile VAULT_PASSWORD_FILES] [-f FORKS]                [-M MODULE_PATH]\u001b[0m", "start_line": 53, "end_line": 54, "runner_ident": "f3d113ac-90a6-4092-a531-cdca227e4a5c", "created": "2025-07-29T06:47:12.983203+00:00"}

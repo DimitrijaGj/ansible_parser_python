@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "d87e07f7-4bbd-4931-a0e0-449f30caf21b", "counter": 179, "stdout": "\u001b[1;35mcommunity:3: Expected key=value host variable assignment, got: re\u001b[0m", "start_line": 178, "end_line": 179, "runner_ident": "f3d113ac-90a6-4092-a531-cdca227e4a5c", "created": "2025-07-29T06:47:13.259280+00:00"}

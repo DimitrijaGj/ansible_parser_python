@@ -1,0 +1,597 @@
+[1;35m[WARNING]: Skipping plugin (/Users/dgjoshev/development/gitlab_reuter365_net/de[0m
+[1;35mvops/ansible/ansible/playbooks/callback_plugins/changes.py), cannot load: No[0m
+[1;35mmodule named 'urllib3'[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31mci.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_8al4djlz/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;33mdhparams-service.prd.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.130 [0m
+[0;33mdashy.prd.collab.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.248 192.168.129.1 192.168.128.1 192.168.123.5 [0m
+[0;33marrival.prd.ws.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.146 [0m
+[0;31mbitbucket.emoto2.local | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;33mmariadb-sb-01.prd.db.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.106 [0m
+[0;33mmariadb-sb-02.prd.db.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.107 [0m
+[0;33mmariadb-t3-02.prd.db.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.109 [0m
+[0;33mmariadb-t3-01.prd.db.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.108 [0m
+[0;33mdmz-ext-ds.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.10.200.11 [0m
+[0;31mdwh-rp-01.emoto2.local | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;31mdwh-app-01.emoto2.local | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;31mdwh-solr-01.emoto2.local | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;31mdwh-solr-stage.emoto2.local | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;33mdwh-solr-s-01.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.154 [0m
+[0;31mdwh-adb-01.emoto2.local | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;31mdwh-solr-dev.emoto2.local | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;33meapp.dev.dmz.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.200.53 [0m
+[0;33meapp-test.dev.ws.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.107 [0m
+[0;33mcatalogues.prd.ws.acs.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.92 [0m
+[0;33mext-ftp-01.prd.misc.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.213.1 [0m
+[0;31mgrafana.emoto2.local | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;33mgrafana.stg.mon.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.120 [0m
+[0;33midoit.prd.collab.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.218 [0m
+[0;31mlvs.emoto2.local | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;31mns-01.rz.emoto2.local | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;31mnms.mon.reuter365.net | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;31mns-02.rz.emoto2.local | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;31mreddoxx-haproxy.lbl.reuter365.net | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;33mmedia-01.prd.ws.acs.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.84 [0m
+[0;33mshopupdateservice.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.116 [0m
+[0;33mspambox-01.badhandel.local | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.147 [0m
+[0;33msilence-manager.prd.mon.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.187 192.168.135.1 192.168.123.5 [0m
+[0;33mws-sorry.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.240 [0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31memero-redis-01.rz.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_64g3xmrc/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31memero-redis-02.rz.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_w70z36wv/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31memero-redis-03.rz.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_i53tww6q/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31mrepro-redis-01.rz.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_qbnbsx5m/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31mrepro-redis-03.rz.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_kl4wmej9/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31mrepro-redis-02.rz.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_znmfxvzq/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31mreuter-redis-03.rz.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_9wr7gr5m/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31mreuter-redis-02.rz.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_yh_wblbt/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31mreuter-redis-01.rz.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_56j2hm85/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31msonono-redis-01.rz.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_mibn812i/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31msonono-redis-02.rz.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_36r19zcv/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;33mgitlab.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.178 [0m
+[0;33mgitlab-runner-01.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.215.1 192.168.123.5 [0m
+[0;33mgitlab-runner-02.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.215.2 192.168.123.5 [0m
+[0;33mgitlab-runner-03.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.215.3 192.168.123.5 [0m
+[0;33mgitlab-runner-04.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.215.4 192.168.123.5 [0m
+[0;33mgitlab-runner-05.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.215.5 192.168.123.5 [0m
+[0;33mgitlab-runner-06.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.215.6 192.168.123.5 [0m
+[0;33mgitlab-runner-07.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.215.7 192.168.123.5 [0m
+[0;33mgitlab-runner-08.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.215.8 172.17.0.1 [0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31mredis-session.dev.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_4_nag71y/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31msonono-redis-03.rz.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_sic2q9tq/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;33mgitlab-runner-09.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.215.9 172.17.0.1 [0m
+[0;33mgitlab-runner-10.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.215.10 172.17.0.1 [0m
+[0;33mbitwarden.prd.collab.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.211.1 192.168.128.1 192.168.129.1 192.168.123.5 [0m
+[0;33mpe-product-returns.prd.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.238 [0m
+[0;33mpe-product-returns.stg.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.237 [0m
+[0;33mpe-online-update.stg.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.142 [0m
+[0;33msearch-ner.stg.ws.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.243 [0m
+[0;33msearch-ner.prd.ws.acs.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.86 [0m
+[0;33mpe-product-references.stg.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.224 [0m
+[0;33mpe-online-update.prd.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.141 [0m
+[0;33mpe-product-references.prd.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.225 [0m
+[0;33mconfluence.stg.collab.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.211 [0m
+[0;33mconfluence.prd.collab.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.212 [0m
+[0;33mcf-sync.prd.misc.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.211.5 [0m
+[0;33memero-01.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.132 [0m
+[0;33memero-02.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.133 [0m
+[0;33memero-03.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.134 [0m
+[0;33memero-04.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.135 [0m
+[0;33mrepro-01.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.52 [0m
+[0;33mrepro-02.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.53 [0m
+[0;33mreuter-01.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.120 [0m
+[0;33mreuter-02.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.121 [0m
+[0;33mreuter-04.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.123 [0m
+[0;33mreuter-03.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.122 [0m
+[0;33mreuter-05.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.124 [0m
+[0;33mreuter-06.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.125 [0m
+[0;33mreuter-07.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.126 [0m
+[0;33mreuter-08.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.127 [0m
+[0;33msonono-01.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.153 [0m
+[0;33msonono-02.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.154 [0m
+[0;33msonono-03.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.155 [0m
+[0;33msonono-04.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.156 [0m
+[0;33mpe-product-prices.prd.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.221 [0m
+[0;33mpe-product-prices.stg.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.220 [0m
+[0;33mservice-catalog-01.prd.ws.colo.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.180 [0m
+[0;33mservice-catalog-02.prd.ws.colo.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.181 [0m
+[0;33mservice-catalog-03.prd.ws.colo.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.182 [0m
+[0;33mservice-catalog-01.stg.ws.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.122 [0m
+[0;33mservice-catalog-04.prd.ws.colo.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.183 [0m
+[0;33mpe-product-customer-satisfaction.stg.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.244 [0m
+[0;33mpe-product-customer-satisfaction.prd.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.245 [0m
+[0;33mshopbackend.prd.ws.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.206 [0m
+[0;33mshopbackend.ipm.ws.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.208 [0m
+[0;33mshopbackend.dev.ws.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.207 [0m
+[0;33mshopbackend.stg.ws.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.210 [0m
+[0;33mshopbackend.ngt.ws.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.209 [0m
+[0;33mshopbackend2.prd.ws.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.114 [0m
+[0;33mshopbackend2.stg.ws.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.113 [0m
+[0;33mshopbackend2.dev.ws.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.112 [0m
+[0;33mdb25.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.25 [0m
+[0;33mreplication-db26.prd.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.193 [0m
+[0;33mdb26.rz.emoto2.local | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.26 [0m
+[0;33meapp-db02.stg.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.109 [0m
+[0;33meapp-db01.stg.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.108 [0m
+[0;33mpe-search-suggestions.prd.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.200 [0m
+[0;33mpe-search-suggestions.stg.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.201 [0m
+[0;33msolr-master.stg.db.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.211.21 [0m
+[0;33msolr-master.prd.db.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.213.41 [0m
+[0;33msolr-s-02.prd.db.colo.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.47 [0m
+[0;33msolr-s-01.prd.db.colo.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.46 [0m
+[0;33msolr-r.prd.db.colo.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.45 [0m
+[0;33msolr-s-03.prd.db.colo.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.48 [0m
+[0;33mpe-jobportal.prd.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.242 [0m
+[0;33msolr-s-04.prd.db.colo.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.49 [0m
+[0;33mpe-jobportal.stg.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.241 [0m
+[0;33mpe-product-variations.stg.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.78 [0m
+[0;33mauthelia.prd.auth.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.211.33 [0m
+[0;33mpe-configurations.stg.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.235 [0m
+[0;33mpe-configurations.prd.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.236 [0m
+[0;33mpe-product-variations.prd.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.79 [0m
+[0;33mcrm-toolbox.prd.ai.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.218 [0m
+[0;33mcrm-toolbox.stg.ai.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.217 [0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31msolr-master.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_9pnq3fsx/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31msolr-r.rz.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_jm2vn8hg/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31msolr-s-01.rz.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_l_tefd3h/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31msolr-s-02.rz.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_aytqzqzn/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31msolr-s-03.rz.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_fol5nopq/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31msolr-s-04.rz.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_4i_68rqk/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31msolr-master.dev.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_qbudj4bn/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;31mAn exception occurred during task execution. To see the full traceback, use -vvv. The error was: SyntaxError: invalid syntax[0m
+[0;31msolr-master-stage.emoto2.local | FAILED! => {[0m
+[0;31m    "changed": false,[0m
+[0;31m    "module_stderr": "Traceback (most recent call last):\n  File \"<stdin>\", line 107, in <module>\n  File \"<stdin>\", line 99, in _ansiballz_main\n  File \"<stdin>\", line 44, in invoke_module\n  File \"<frozen importlib._bootstrap>\", line 969, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 954, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 896, in _find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1147, in find_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1123, in _get_spec\n  File \"<frozen importlib._bootstrap_external>\", line 1104, in _legacy_get_spec\n  File \"<frozen importlib._bootstrap>\", line 444, in spec_from_loader\n  File \"<frozen importlib._bootstrap_external>\", line 541, in spec_from_file_location\n  File \"/tmp/ansible_ansible.legacy.command_payload_wfj2pbo0/ansible_ansible.legacy.command_payload.zip/ansible/module_utils/basic.py\", line 17\n    msg=f\"ansible-core requires a minimum of Python version {'.'.join(map(str, _PY_MIN))}. Current version: {''.join(sys.version.splitlines())}\",\n                                                                                                                                               ^\nSyntaxError: invalid syntax\n",[0m
+[0;31m    "module_stdout": "",[0m
+[0;31m    "msg": "MODULE FAILURE: No start of json char found\nSee stdout/stderr for the exact error",[0m
+[0;31m    "rc": 1[0m
+[0;31m}[0m
+[0;33mpe-sales-history.prd.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.75 [0m
+[0;33mpe-sales-history.stg.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.74 [0m
+[0;33mpe-competitor-prices.stg.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.170 [0m
+[0;33mpe-competitor-prices.prd.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.158 [0m
+[0;33mcrm-kb.prd.ai.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.226 [0m
+[0;33mpe-search-index.prd.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.234 [0m
+[0;33mcrm-kb.stg.ai.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.225 [0m
+[0;33mpe-search-index.stg.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.233 [0m
+[0;33msslconverter.prd.ws.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.211.37 [0m
+[0;33mpe-admin-panel.stg.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.76 [0m
+[0;33mpe-admin-panel.prd.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.77 [0m
+[0;33msweb.prd.ws.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.167 [0m
+[0;33mpricecalc.prd.misc.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.213.18 [0m
+[0;33mpricecalc.stg.misc.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.213.17 [0m
+[0;33msweb.stg.ws.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.166 [0m
+[0;33msweb.dev.ws.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.165 [0m
+[0;33mchatbot.stg.ai.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.211.45 [0m
+[0;33mcheckmk01.prd.mon.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.213.12 [0m
+[0;33mjira.stg.collab.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.213 [0m
+[0;33mjira.prd.collab.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.214 [0m
+[0;33mcheckmk02.prd.mon.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.213.13 [0m
+[0;33mcheckmk01.dev.mon.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.213.11 [0m
+[0;33mt3-reuter.prd.cms.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.233 [0m
+[0;33mt3-emero.prd.cms.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.234 [0m
+[0;33mt3-sonono.prd.cms.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.235 [0m
+[0;31mprometheus-exporters-01.rz.emoto2.local | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;31mprometheus-exporters-01.mon.reuter365.net | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;33mtypo3.stg.cms.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.211.9 [0m
+[0;33monline-shop.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.182 [0m
+[0;33monline-shop-01.stg.ws.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.135 [0m
+[0;31mws-misc-01.rz.emoto2.local | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;31mws-misc-02.rz.emoto2.local | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;33mws-misc-01.prd.ws.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.111 [0m
+[0;33m10.10.59.59 | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.59 [0m
+[0;33mpe-products.stg.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.189 [0m
+[0;33mpe-products.prd.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.188 [0m
+[0;33mpe-product-stock.prd.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.223 [0m
+[0;33mpe-product-stock.stg.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.222 [0m
+[0;31mxibo.emoto2.local | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;31mxibo-stage.emoto2.local | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;33mpe-search-analysis.prd.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.155 [0m
+[0;33mpe-search-analysis.stg.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.156 [0m
+[0;33memail-classification.prd.ai.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.247 [0m
+[0;33memail-classification.stg.ai.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.246 [0m
+[0;31mjobportal.dev.local | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;33mpe-product-reviews.prd.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.228 [0m
+[0;31mjobportal.rz.emoto2.local | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;33mpe-product-reviews.stg.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.227 [0m
+[0;33mpe-shopping-carts.prd.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.159 [0m
+[0;33mpe-shopping-carts.stg.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.171 [0m
+[0;33mnextcloud-01.stg.collab.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.78 [0m
+[0;33mprometheus-01.prd.mon.acs.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.11 [0m
+[0;33mprometheus-01.prd.mon.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.105 [0m
+[0;33mpe-product-sales-index.stg.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.229 [0m
+[0;33mpe-product-sales-index.prd.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.230 [0m
+[0;31mprometheus-influxdb.mon.reuter365.net | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;33mpe-product-categories.stg.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.231 [0m
+[0;33minfluxdb-01.prd.mon.acs.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.12 [0m
+[0;33mpe-product-categories.prd.pe.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.232 [0m
+[0;33mcluster01-node03.prd.es.acs.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.37 [0m
+[0;31mes-graylog-01.mon.reuter365.net | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;31mgraylog.reuter365.net | FAILED | rc=-1 >>[0m
+[0;31mansible-core requires a minimum of Python version 3.8. Current version: 3.7.3 (default, Mar 23 2024, 16:12:05) [GCC 8.3.0][0m
+[0;33mcluster01-node01.stg.es.acs.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.40 [0m
+[0;33mcluster01-node02.stg.es.acs.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.41 [0m
+[0;33mcluster01-node01.prd.es.acs.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.35 [0m
+[0;33mcluster01-node03.stg.es.acs.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.42 [0m
+[0;33mcluster01-node02.prd.es.acs.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.36 [0m
+[0;33mcluster01-kibana01.prd.es.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.198 [0m
+[0;33mcluster01-kibana02.prd.es.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.199 [0m
+[0;33mcluster01-kibana01.stg.es.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.194 [0m
+[0;33mos-reutercom-01.prd.ws.acs.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.142 [0m
+[0;33mos-reutercom-02.prd.ws.acs.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.143 [0m
+[0;33mos-reutercom-03.prd.ws.colo.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.146 [0m
+[0;33mos-reutercom-04.prd.ws.colo.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.147 [0m
+[0;33mos-reuterde-01.prd.ws.acs.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.140 [0m
+[0;33mos-reuterde-04.prd.ws.colo.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.145 [0m
+[0;33mos-reuterde-03.prd.ws.colo.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.144 [0m
+[0;33mos-reuterde-02.prd.ws.acs.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.141 [0m
+[0;33mcluster01-node01.prd.es.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.195 [0m
+[0;33mcluster01-node02.prd.es.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.196 [0m
+[0;33mcluster01-node03.stg.es.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.192 [0m
+[0;33mcluster01-node02.stg.es.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.191 [0m
+[0;33mnextcloud-gfs-02.prd.collab.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.92 [0m
+[0;33mnextcloud-mariadb-01.prd.collab.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.76 [0m
+[0;33mcollabora-01.prd.collab.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.69 [0m
+[0;33mcollabora-02.prd.collab.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.70 [0m
+[0;33mcluster01-node03.prd.es.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.197 [0m
+[0;33mcluster01-node01.stg.es.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.59.190 [0m
+[0;33mnextcloud-redis-01.prd.collab.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.73 [0m
+[0;33mnextcloud-01.prd.collab.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.65 [0m
+[0;33mnextcloud-02.prd.collab.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.66 [0m
+[0;33mnextcloud-gfs-01.prd.collab.mgh.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.10.210.93 [0m
+[0;33mcluster01-kibana01.prd.es.acs.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.38 [0m
+[0;33mcluster01-kibana02.prd.es.acs.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.39 [0m
+[0;33mcluster01-kibana01.stg.es.acs.reuter365.net | CHANGED | rc=0 >>[0m
+[0;33m10.51.30.43 [0m

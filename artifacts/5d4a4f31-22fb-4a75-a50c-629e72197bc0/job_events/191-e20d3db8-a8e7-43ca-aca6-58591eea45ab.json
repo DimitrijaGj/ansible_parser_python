@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "e20d3db8-a8e7-43ca-aca6-58591eea45ab", "counter": 191, "stdout": "\u001b[1;35marguments:   {list,dump,view,init,validate}     list                Print all\u001b[0m", "start_line": 190, "end_line": 191, "runner_ident": "5d4a4f31-22fb-4a75-a50c-629e72197bc0", "created": "2025-07-29T06:47:53.303904+00:00"}

@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "bc9960e1-85e8-4edd-a827-9b39c2720328", "counter": 23, "stdout": "               [-t TREE] [--private-key PRIVATE_KEY_FILE] [-u REMOTE_USER]", "start_line": 22, "end_line": 23, "runner_ident": "09d61f42-fffe-4911-bfbd-2b2ae0a8cdc8", "created": "2025-07-29T05:43:35.441738+00:00"}
