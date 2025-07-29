@@ -44,5 +44,5 @@ This script uses Ansible to gather server IP addresses from an inventory file an
 
 Run the script to generate the CSV report:
 ```
-python [srvr_inventory.py](http://_vscodecontentref_/0)
+python3 srvr_inventory.py
 ```
