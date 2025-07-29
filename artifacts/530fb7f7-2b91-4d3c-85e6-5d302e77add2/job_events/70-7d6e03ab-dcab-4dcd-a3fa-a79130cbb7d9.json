@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "7d6e03ab-dcab-4dcd-a3fa-a79130cbb7d9", "counter": 70, "stdout": "\u001b[1;35mpattern  Define and run a single task 'playbook' against a set of hosts\u001b[0m", "start_line": 69, "end_line": 70, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:12.208890+00:00"}

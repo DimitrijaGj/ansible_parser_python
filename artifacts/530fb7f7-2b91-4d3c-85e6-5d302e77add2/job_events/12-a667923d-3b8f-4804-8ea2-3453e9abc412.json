@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "a667923d-3b8f-4804-8ea2-3453e9abc412", "counter": 12, "stdout": "\u001b[1;35mwhile loading YAML.   did not find expected <document start>. did not find\u001b[0m", "start_line": 11, "end_line": 12, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:11.627193+00:00"}

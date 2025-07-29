@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "801ed88b-a42b-4e73-a8f9-d2414e27fa35", "counter": 1, "stdout": "usage: ansible [-h] [--version] [-v] [-b] [--become-method BECOME_METHOD]", "start_line": 0, "end_line": 1, "runner_ident": "09d61f42-fffe-4911-bfbd-2b2ae0a8cdc8", "created": "2025-07-29T05:43:35.396965+00:00"}

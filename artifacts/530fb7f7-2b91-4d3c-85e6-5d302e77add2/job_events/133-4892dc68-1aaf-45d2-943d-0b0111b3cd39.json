@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "4892dc68-1aaf-45d2-943d-0b0111b3cd39", "counter": 133, "stdout": "\u001b[1;35mProxyCommand)   --ssh-extra-args SSH_EXTRA_ARGS                         specify\u001b[0m", "start_line": 132, "end_line": 133, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:12.291028+00:00"}

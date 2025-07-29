@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "9512155f-7cff-4e5e-b8cc-9dd0bf232063", "counter": 18, "stdout": "\u001b[1;35mvariables     if [ -n \"${_OLD_VIRTUAL_PATH:-}\" ] ; then     ^ here\u001b[0m", "start_line": 17, "end_line": 18, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:11.632766+00:00"}

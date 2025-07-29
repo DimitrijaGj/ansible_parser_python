@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "cf032092-315b-46e6-9ee0-41b926efc994", "counter": 109, "stdout": "\u001b[1;35mlist. --inventory-file is deprecated. This argument                         may\u001b[0m", "start_line": 108, "end_line": 109, "runner_ident": "05b6d78e-fa04-4827-99b3-71ed4995daa6", "created": "2025-07-29T06:54:50.828484+00:00"}

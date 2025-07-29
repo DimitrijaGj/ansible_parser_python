@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "cf64cba4-d690-4700-a295-171a638f68c8", "counter": 17, "stdout": "ansible: error: the following arguments are required: pattern", "start_line": 16, "end_line": 17, "runner_ident": "09d61f42-fffe-4911-bfbd-2b2ae0a8cdc8", "created": "2025-07-29T05:43:35.433815+00:00"}

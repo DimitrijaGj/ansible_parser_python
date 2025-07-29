@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "ff8bf593-587c-45d6-82a1-ab547c3ccd25", "counter": 45, "stdout": "\u001b[1;35mBECOME_METHOD]                [--become-user BECOME_USER] [-K |\u001b[0m", "start_line": 44, "end_line": 45, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:12.171543+00:00"}

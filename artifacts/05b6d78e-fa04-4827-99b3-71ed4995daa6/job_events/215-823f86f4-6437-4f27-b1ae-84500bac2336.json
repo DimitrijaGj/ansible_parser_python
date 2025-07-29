@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "823f86f4-6437-4f27-b1ae-84500bac2336", "counter": 215, "stdout": "\u001b[1;35mproblem.  The offending line appears to be:  from ansible.cli.config import\u001b[0m", "start_line": 214, "end_line": 215, "runner_ident": "05b6d78e-fa04-4827-99b3-71ed4995daa6", "created": "2025-07-29T06:54:51.536917+00:00"}

@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "5975aa17-0aad-4276-83c7-216a62e13098", "counter": 166, "stdout": "\u001b[1;35myaml plugin: We were unable to read either as JSON nor YAML, these are the\u001b[0m", "start_line": 165, "end_line": 166, "runner_ident": "5d4a4f31-22fb-4a75-a50c-629e72197bc0", "created": "2025-07-29T06:47:52.811091+00:00"}

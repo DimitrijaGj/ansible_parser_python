@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "3a3496bd-c0f0-4ce7-b1b1-0b3351e806cd", "counter": 100, "stdout": "\u001b[1;35mThe action's options in space separated k=v format: -a\u001b[0m", "start_line": 99, "end_line": 100, "runner_ident": "5d4a4f31-22fb-4a75-a50c-629e72197bc0", "created": "2025-07-29T06:47:52.674405+00:00"}

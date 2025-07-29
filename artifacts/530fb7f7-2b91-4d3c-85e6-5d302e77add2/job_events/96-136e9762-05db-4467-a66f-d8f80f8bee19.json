@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "136e9762-05db-4467-a66f-d8f80f8bee19", "counter": 96, "stdout": "\u001b[1;35mpath(s) to module library                         (default={{ ANSIBLE_HOME ~\u001b[0m", "start_line": 95, "end_line": 96, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:12.244128+00:00"}

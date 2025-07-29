@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "ee1a9475-a1e6-43c0-bd80-79b280eef16a", "counter": 55, "stdout": "\u001b[1;35m[--playbook-dir BASEDIR]                [--task-timeout TASK_TIMEOUT] [-a\u001b[0m", "start_line": 54, "end_line": 55, "runner_ident": "05b6d78e-fa04-4827-99b3-71ed4995daa6", "created": "2025-07-29T06:54:50.767998+00:00"}

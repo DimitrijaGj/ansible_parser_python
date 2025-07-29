@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "9ae90dfa-183c-4ec2-bdb5-3d55e7e73c6a", "counter": 189, "stdout": "\u001b[1;35marguments are required: action   usage: ansible-config [-h] [--version] [-v]\u001b[0m", "start_line": 188, "end_line": 189, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:13.461729+00:00"}

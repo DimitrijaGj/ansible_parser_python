@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "d6c7126c-4cb7-479b-8ea8-b856c58cac9d", "counter": 174, "stdout": "\u001b[1;35mansible_collections.ansible_community import main if __name__ == '__main__':\u001b[0m", "start_line": 173, "end_line": 174, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:12.725497+00:00"}

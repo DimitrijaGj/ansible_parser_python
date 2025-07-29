@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "cb10a803-b5ca-4df7-a765-5c52ac4fd70d", "counter": 188, "stdout": "\u001b[1;35m{list,dump,view,init,validate} ... ansible-config: error: the following\u001b[0m", "start_line": 187, "end_line": 188, "runner_ident": "5d4a4f31-22fb-4a75-a50c-629e72197bc0", "created": "2025-07-29T06:47:53.301574+00:00"}

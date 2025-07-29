@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "fb72ed57-54ba-494d-a164-9eadeadf1678", "counter": 49, "stdout": "\u001b[1;35mCONNECTION] [-T TIMEOUT]                [--ssh-common-args SSH_COMMON_ARGS]\u001b[0m", "start_line": 48, "end_line": 49, "runner_ident": "05b6d78e-fa04-4827-99b3-71ed4995daa6", "created": "2025-07-29T06:54:50.760680+00:00"}

@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "767e14f0-f968-4e4e-93d5-c58445df34df", "counter": 154, "stdout": "\u001b[1;35mkey=value host variable assignment, got: re\u001b[0m", "start_line": 153, "end_line": 154, "runner_ident": "5d4a4f31-22fb-4a75-a50c-629e72197bc0", "created": "2025-07-29T06:47:52.734956+00:00"}

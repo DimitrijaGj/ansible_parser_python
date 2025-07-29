@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "0dec90f6-04a8-4ef9-ae37-2d806af6c6d7", "counter": 120, "stdout": "\u001b[1;35mtimes.  Privilege Escalation Options:   control how and which user you become\u001b[0m", "start_line": 119, "end_line": 120, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:12.272673+00:00"}

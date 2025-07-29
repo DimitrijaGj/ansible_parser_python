@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "9ce33be4-a2da-4bf0-96ad-992781fae0c5", "counter": 153, "stdout": "\u001b[1;35m/Users/dgjoshev/my_stuff/livada/server_ip/ansible/bin/ansible:3: Expected\u001b[0m", "start_line": 152, "end_line": 153, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:12.311077+00:00"}

@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "b1fef190-a6ea-4018-beef-62b87f9a8a29", "counter": 94, "stdout": "\u001b[1;35m--ask-become-pass                         ask for privilege escalation password\u001b[0m", "start_line": 93, "end_line": 94, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:12.241971+00:00"}

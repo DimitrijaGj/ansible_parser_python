@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "27efaf06-ff0c-4c24-9f00-ab88b3856e95", "counter": 13, "stdout": "\u001b[1;35mexpected <document start>   in \"<unicode string>\", line 6, column 5  The error\u001b[0m", "start_line": 12, "end_line": 13, "runner_ident": "5d4a4f31-22fb-4a75-a50c-629e72197bc0", "created": "2025-07-29T06:47:52.130529+00:00"}

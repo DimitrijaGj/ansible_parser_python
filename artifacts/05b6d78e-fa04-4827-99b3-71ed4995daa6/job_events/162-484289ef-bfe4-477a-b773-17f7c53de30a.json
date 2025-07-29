@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "484289ef-bfe4-477a-b773-17f7c53de30a", "counter": 162, "stdout": "\u001b[1;35man execution error: usage: ansible-community [-h] [--version] ansible-\u001b[0m", "start_line": 161, "end_line": 162, "runner_ident": "05b6d78e-fa04-4827-99b3-71ed4995daa6", "created": "2025-07-29T06:54:50.966401+00:00"}

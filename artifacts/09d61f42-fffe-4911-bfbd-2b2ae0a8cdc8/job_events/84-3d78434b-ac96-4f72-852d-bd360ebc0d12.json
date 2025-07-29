@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "3d78434b-ac96-4f72-852d-bd360ebc0d12", "counter": 84, "stdout": "                        'opt1=val1 opt2=val2' or a json string: -a '{\"opt1\":", "start_line": 82, "end_line": 83, "runner_ident": "09d61f42-fffe-4911-bfbd-2b2ae0a8cdc8", "created": "2025-07-29T05:43:35.578665+00:00"}

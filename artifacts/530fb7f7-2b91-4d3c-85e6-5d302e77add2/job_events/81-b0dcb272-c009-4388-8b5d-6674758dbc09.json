@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "b0dcb272-c009-4388-8b5d-6674758dbc09", "counter": 81, "stdout": "\u001b[1;35mseconds, must be positive                         integer.   --vault-id\u001b[0m", "start_line": 80, "end_line": 81, "runner_ident": "530fb7f7-2b91-4d3c-85e6-5d302e77add2", "created": "2025-07-29T06:46:12.223679+00:00"}

@@ -1,1 +1,0 @@
-{"event": "verbose", "uuid": "27a5f3e9-38b5-46f4-b6a9-4fb6f1b59ded", "counter": 144, "stdout": "\u001b[1;35mloading YAML.   mapping values are not allowed in this context. mapping values\u001b[0m", "start_line": 143, "end_line": 144, "runner_ident": "05b6d78e-fa04-4827-99b3-71ed4995daa6", "created": "2025-07-29T06:54:50.869770+00:00"}
