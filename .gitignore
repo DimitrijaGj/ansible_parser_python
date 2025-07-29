@@ -1,5 +1,0 @@
-.ansible/
-artifacts/
-server_inventory_report.csv
-.gitignore
-.env
