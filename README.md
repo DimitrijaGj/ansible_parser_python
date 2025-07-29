@@ -1,7 +1,9 @@
 # Server Inventory Report Generator
+
 ![ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![]
+![git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 This script uses Ansible to gather server IP addresses from an inventory file and generates a CSV report.
 
 ## Features
