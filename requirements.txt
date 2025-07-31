@@ -1,5 +1,5 @@
-ansible==11.8.0
-ansible-core==2.18.7
+ansible==8.3.0
+ansible-core==2.15.13
 ansible-runner==2.4.1
 cffi==1.17.1
 cryptography==45.0.5
@@ -8,11 +8,17 @@ Jinja2==3.1.6
 lockfile==0.12.2
 MarkupSafe==3.0.2
 marshmallow==4.0.0
+numpy==2.3.2
 packaging==25.0
+pandas==2.3.1
 pexpect==4.9.0
 ptyprocess==0.7.0
 pycparser==2.22
 python-daemon==3.1.2
+python-dateutil==2.9.0.post0
 python-dotenv==1.1.1
+pytz==2025.2
 PyYAML==6.0.2
 resolvelib==1.0.1
+six==1.17.0
+tzdata==2025.2
